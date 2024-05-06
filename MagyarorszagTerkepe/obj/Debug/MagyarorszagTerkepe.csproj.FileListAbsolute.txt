@@ -1,0 +1,15 @@
+C:\Users\Diak\..rb\Második félév\Adatbázis-kezelés\2024-05-06\MagyarorszagTerkepe\MagyarorszagTerkepe\obj\Debug\MagyarorszagTerkepe.csproj.AssemblyReference.cache
+C:\Users\Diak\..rb\Második félév\Adatbázis-kezelés\2024-05-06\MagyarorszagTerkepe\MagyarorszagTerkepe\obj\Debug\MainWindow.g.cs
+C:\Users\Diak\..rb\Második félév\Adatbázis-kezelés\2024-05-06\MagyarorszagTerkepe\MagyarorszagTerkepe\obj\Debug\App.g.cs
+C:\Users\Diak\..rb\Második félév\Adatbázis-kezelés\2024-05-06\MagyarorszagTerkepe\MagyarorszagTerkepe\obj\Debug\MagyarorszagTerkepe_MarkupCompile.cache
+C:\Users\Diak\..rb\Második félév\Adatbázis-kezelés\2024-05-06\MagyarorszagTerkepe\MagyarorszagTerkepe\obj\Debug\MagyarorszagTerkepe_MarkupCompile.lref
+C:\Users\Diak\..rb\Második félév\Adatbázis-kezelés\2024-05-06\MagyarorszagTerkepe\MagyarorszagTerkepe\bin\Debug\MagyarorszagTerkepe.exe.config
+C:\Users\Diak\..rb\Második félév\Adatbázis-kezelés\2024-05-06\MagyarorszagTerkepe\MagyarorszagTerkepe\bin\Debug\MagyarorszagTerkepe.exe
+C:\Users\Diak\..rb\Második félév\Adatbázis-kezelés\2024-05-06\MagyarorszagTerkepe\MagyarorszagTerkepe\bin\Debug\MagyarorszagTerkepe.pdb
+C:\Users\Diak\..rb\Második félév\Adatbázis-kezelés\2024-05-06\MagyarorszagTerkepe\MagyarorszagTerkepe\obj\Debug\MainWindow.baml
+C:\Users\Diak\..rb\Második félév\Adatbázis-kezelés\2024-05-06\MagyarorszagTerkepe\MagyarorszagTerkepe\obj\Debug\MagyarorszagTerkepe.g.resources
+C:\Users\Diak\..rb\Második félév\Adatbázis-kezelés\2024-05-06\MagyarorszagTerkepe\MagyarorszagTerkepe\obj\Debug\MagyarorszagTerkepe.Properties.Resources.resources
+C:\Users\Diak\..rb\Második félév\Adatbázis-kezelés\2024-05-06\MagyarorszagTerkepe\MagyarorszagTerkepe\obj\Debug\MagyarorszagTerkepe.csproj.GenerateResource.cache
+C:\Users\Diak\..rb\Második félév\Adatbázis-kezelés\2024-05-06\MagyarorszagTerkepe\MagyarorszagTerkepe\obj\Debug\MagyarorszagTerkepe.csproj.CoreCompileInputs.cache
+C:\Users\Diak\..rb\Második félév\Adatbázis-kezelés\2024-05-06\MagyarorszagTerkepe\MagyarorszagTerkepe\obj\Debug\MagyarorszagTerkepe.exe
+C:\Users\Diak\..rb\Második félév\Adatbázis-kezelés\2024-05-06\MagyarorszagTerkepe\MagyarorszagTerkepe\obj\Debug\MagyarorszagTerkepe.pdb
