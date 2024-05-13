@@ -5,10 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MagyarorszagTerkepe"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Magyarország térképe" Height="450" Width="800" SizeChanged="Atmeretezes">
     <Grid>
-        <Canvas x:Name="Rajzlap" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="430"
-                Margin="0,0,0,0" VerticalAlignment="Center" Width="800" Background="Transparent" MouseUp="Rajzlap_MouseUp"/>
+        
+        
+        <Canvas x:Name="Rajzlap" Grid.ColumnSpan="2" Grid.RowSpan="3" HorizontalAlignment="Center" Height="430"
+                Margin="0,0,0,0" VerticalAlignment="Center" Width="800" Background="Black" MouseUp="Terkep"
+                SizeChanged="Atmeretezes">
+           
+
+        </Canvas>
+        
 
     </Grid>
 </Window>
